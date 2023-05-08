@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		078519C629C01B5C009C8396 /* 2week.c in Sources */ = {isa = PBXBuildFile; fileRef = 078519C529C01B5C009C8396 /* 2week.c */; };
+		078EB7F32A00B55700E82020 /* 9week.c in Sources */ = {isa = PBXBuildFile; fileRef = 078EB7F22A00B55700E82020 /* 9week.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0707E2E129F3A0E600ABB4BF /* 3weeks.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 3weeks.c; sourceTree = "<group>"; };
+		070F20AF29F6A4BB009C08F3 /* 5weekstudy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5weekstudy.c; sourceTree = "<group>"; };
+		0710754929F51FFD0001DE98 /* recursion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = recursion.c; sourceTree = "<group>"; };
+		071204E329F3C9830019F3E0 /* 4weekstudy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4weekstudy.c; sourceTree = "<group>"; };
+		0722EA1729E554BE00CFD54A /* 1weekS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1weekS.c; sourceTree = "<group>"; };
+		0764CFAA29D2919C00DC1B59 /* 4week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4week.c; sourceTree = "<group>"; };
+		0780C4D329C9530D004BC702 /* 3week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 3week.c; sourceTree = "<group>"; };
 		078519C529C01B5C009C8396 /* 2week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2week.c; sourceTree = "<group>"; };
+		078EB7F22A00B55700E82020 /* 9week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9week.c; sourceTree = "<group>"; };
+		07AD2F2429F2D8E3008A9732 /* 2weekS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2weekS.c; sourceTree = "<group>"; };
+		07B144E529DBCB2200067690 /* 5week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5week.c; sourceTree = "<group>"; };
+		07BA5D2F29EE3FC2002025A9 /* listMaze.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = listMaze.c; sourceTree = "<group>"; };
+		07EA702629EE5351004B48DD /* queue.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = queue.c; sourceTree = "<group>"; };
+		07EDA16029E5056F00234AEA /* 6week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 6week.c; sourceTree = "<group>"; };
 		07FE699129B6DD4F00782A1C /* 데구실습 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "데구실습"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07FE699429B6DD4F00782A1C /* 1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,6 +73,19 @@
 			children = (
 				07FE699429B6DD4F00782A1C /* 1.c */,
 				078519C529C01B5C009C8396 /* 2week.c */,
+				0780C4D329C9530D004BC702 /* 3week.c */,
+				0764CFAA29D2919C00DC1B59 /* 4week.c */,
+				07B144E529DBCB2200067690 /* 5week.c */,
+				07EDA16029E5056F00234AEA /* 6week.c */,
+				0722EA1729E554BE00CFD54A /* 1weekS.c */,
+				07BA5D2F29EE3FC2002025A9 /* listMaze.c */,
+				07EA702629EE5351004B48DD /* queue.c */,
+				07AD2F2429F2D8E3008A9732 /* 2weekS.c */,
+				0707E2E129F3A0E600ABB4BF /* 3weeks.c */,
+				071204E329F3C9830019F3E0 /* 4weekstudy.c */,
+				0710754929F51FFD0001DE98 /* recursion.c */,
+				070F20AF29F6A4BB009C08F3 /* 5weekstudy.c */,
+				078EB7F22A00B55700E82020 /* 9week.c */,
 			);
 			path = "데구실습";
 			sourceTree = "<group>";
@@ -121,7 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				078519C629C01B5C009C8396 /* 2week.c in Sources */,
+				078EB7F32A00B55700E82020 /* 9week.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

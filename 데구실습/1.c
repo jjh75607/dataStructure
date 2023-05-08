@@ -68,6 +68,7 @@ void findCoordinate() { // 1번
             max = distance[i];
             maxX = coordinate[i].x;
             maxY = coordinate[i].y;
+            
         }
         if (distance[i] < min) {
             min = distance[i];
@@ -180,7 +181,7 @@ void findPrimeNumber() { //5번
     int n1, n2;
     
     printf("숫자 두개를 입력하세요 / n1 < n2(n1은 2이상) -->");
-    scanf("%d %d", &n1, &n2);/var/folders/gk/9kk99q_562l1yc4m45tn58f00000gn/T/TemporaryItems/NSIRD_screencaptureui_XWvTig/화면 기록 2023-03-08 오후 5.09.37.mov
+    scanf("%d %d", &n1, &n2);
     
     while(1) {
         if(n1 < 2) {
