@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		078EB7F32A00B55700E82020 /* 9week.c in Sources */ = {isa = PBXBuildFile; fileRef = 078EB7F22A00B55700E82020 /* 9week.c */; };
+		071228602A1C64A90032D14B /* 12week.c in Sources */ = {isa = PBXBuildFile; fileRef = 0712285F2A1C64A80032D14B /* 12week.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		070F20AF29F6A4BB009C08F3 /* 5weekstudy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5weekstudy.c; sourceTree = "<group>"; };
 		0710754929F51FFD0001DE98 /* recursion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = recursion.c; sourceTree = "<group>"; };
 		071204E329F3C9830019F3E0 /* 4weekstudy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4weekstudy.c; sourceTree = "<group>"; };
+		0712285F2A1C64A80032D14B /* 12week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 12week.c; sourceTree = "<group>"; };
 		0722EA1729E554BE00CFD54A /* 1weekS.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1weekS.c; sourceTree = "<group>"; };
 		0764CFAA29D2919C00DC1B59 /* 4week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4week.c; sourceTree = "<group>"; };
 		0780C4D329C9530D004BC702 /* 3week.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 3week.c; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 				0710754929F51FFD0001DE98 /* recursion.c */,
 				070F20AF29F6A4BB009C08F3 /* 5weekstudy.c */,
 				078EB7F22A00B55700E82020 /* 9week.c */,
+				0712285F2A1C64A80032D14B /* 12week.c */,
 			);
 			path = "데구실습";
 			sourceTree = "<group>";
@@ -147,7 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				078EB7F32A00B55700E82020 /* 9week.c in Sources */,
+				071228602A1C64A90032D14B /* 12week.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
